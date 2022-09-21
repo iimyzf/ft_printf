@@ -31,4 +31,4 @@ For more detailed information, make sure to take a look at [**the project subjec
 <br></br>
 
 ## ✅ Final Score: 100/125
-> _Did only the mandatory of the project 😅_
+> _I only did the mandatory part of the project 😅_
